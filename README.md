@@ -1,2 +1,7 @@
 # MicroServices-Config-Zipkin
-MicroServices with distributed Log tracing and Config Server
+CodeBuffer Project from youtube
+Two microservices User-Service and Department-Service
+User-Service consumes Department-Service using RestTemplate
+Implemented API Gateway and Service Registry
+Config Server added for central application.properties control
+Zipkin and Sleuth added for distributed log tracing
